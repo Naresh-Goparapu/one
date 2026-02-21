@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Naresh your server working properly</h1>
+                <h1>Naresh from Pipeline</h1>
                 <h1>Naresh your new update</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
